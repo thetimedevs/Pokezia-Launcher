@@ -1,7 +1,7 @@
 {
     "name": "Pokezia-Launcher",
     "preductname": "Pokezia Launcher",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "Launcher Mincraft Pokezia",
     "main": "src/app.js",
     "author": "Luuxis, TheTimeDev_",
