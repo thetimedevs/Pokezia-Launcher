@@ -1,7 +1,7 @@
 {
     "name": "Pokezia-Launcher",
     "preductname": "Pokezia Launcher",
-    "version": "1.0.2",
+    "version": "1.0.4",
     "description": "Launcher Mincraft Pokezia",
     "main": "src/app.js",
     "author": "Luuxis, TheTimeDev_",
@@ -32,6 +32,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/thetimedevs/Pokezia-Launcher.git"
     }
 }
